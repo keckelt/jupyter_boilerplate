@@ -4,16 +4,16 @@ channels:
   - defaults
 dependencies:
   - python
-  - scipy
-  - vega_datasets
-  - vega
-  - jupyterlab
-  - nodejs[version='>=10']
-  - numpy
-  - matplotlib
   - notebook
-  - scikit-learn
-  - seaborn
-  - ipywidgets
+  - jupyterlab
+  - numpy
   - pandas
+  - scikit-learn
+  - scipy
+  - matplotlib
+  - seaborn
   - altair
+  - vega
+  - vega_datasets
+  - opentsne
+  - umap-learn
