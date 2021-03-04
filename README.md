@@ -43,7 +43,7 @@ conda env remove --name test_env                    ... remove an environment fr
 
 ```sd
 conda env create -f environment.yml
-conda activate python-tutorial
+conda activate boilerplate
 ```
 
 3. Launch JupyterLab:

@@ -1,4 +1,4 @@
-name: python-tutorial
+name: boilerplate
 channels:
   - conda-forge
   - defaults
